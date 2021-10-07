@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lD8zjWKFyWW0+tUbp6KJUXp7+g6fvr20hqL1PG4/IVX/E0EtIPkDwBbcgynffLKCtYde6QxTLSXdEiFXOtW1g==",
+  "success": true,
+  "projectFilePath": "D:\\Programas diarios\\Daily_Coding_Problem_2\\Daily_Coding_Problem_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\x\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\x\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
